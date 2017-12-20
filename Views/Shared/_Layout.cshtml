@@ -1,0 +1,60 @@
+﻿@using dreamstarter_web.Utilities
+@inject IUserLogger Logger
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <environment names="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    </environment>
+    
+</head>
+<body>
+    
+    <nav class="navbar navbar-default navbar-fixed-top">
+       
+        <div class="container-fluid">
+           
+                
+                <dev class="navbar-logo col-md-9">
+                     <a href="/home/index"><img src="~/images/logo-1.png"></a>
+                </dev>
+                
+                    @if(Logger.IsLoggedIn()){
+                        <div class="nav navbar-nav col-md-3" style="font-size:130%;">
+
+                            <!-- Campaigns -->
+                            <!-- rocket ship by Joy Thomas from the Noun Project -->
+                            <a asp-controller="ControlPanel" asp-action="PanelMain"><img src="~/images/rocket.png" alt="Avatar" style="width:10%; margin-right:5%;"></a>
+                            <!-- UserProfile -->
+                             <a asp-controller="Home" asp-action="Index" ><img src="~/images/profile-pics/@Logger.ProfilePicture()" alt="Avatar" style="width:10%; border-radius: 50%;"></a>
+                            <!-- Log OUt -->
+                            <a asp-controller="Account" asp-action="LogOut" style=" padding-left:5%">Log Out</a>
+                        </div>
+                    }
+                    else {
+                         <div class="nav navbar-nav col-md-3" style=" font-size:130%;">
+                            <li><a asp-controller="Account" asp-action="Login" >Log In</a></li>
+                            <li><a asp-controller="Account" asp-action="SignUp" >Sign Up</a></li>
+                        </div>
+                    }
+            
+        </div>
+    </nav>
+    
+    @RenderBody();
+    
+            <footer class="homepage-footer bottom navbar-fixed-bottom">
+                <div class="footer-content">
+                    <p style="padding-left: 73%">&copy; 2017 - dreamstarter_web</p>
+                </div>
+            </footer>
+ 
+  
+</body>
+</html>

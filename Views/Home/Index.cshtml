@@ -1,0 +1,38 @@
+﻿
+@model IEnumerable<dreamstarter_web.Models.Entities.Campaign>
+<html>
+<body>
+    <!-- child nr 2 -->
+    <div class="ratio" >
+    </div>
+
+    <!-- child nr 3  // campaigns go here -->
+    <div class="container"  >
+        
+            @foreach(var camp in Model){
+                <div class="Card-Parent col-md-3" style="border:1px solid black; padding:0px: margin 1px;">
+                    
+                    <div class"Detail-Picture>
+                        <a asp-controller="Campaign" 
+                                asp-action="DetailCampaign" 
+                                asp-route-id=@camp.CampaignId>
+                                <img src="~/@camp.ThemeImageFileName" alt="@camp.Title"  width="270em">
+                        </a>  
+                    </div>
+
+                    <div class="Card-Synopsis" style="padding: 1%">
+                            <h5 style="font-weight: bold;">@camp.Title</h5>
+                            @camp.Synopsis
+                            <p><a href="/Campaign/DetailCampaign/@camp.CampaignId" class="button">Read More</a></p>
+                    </div>
+                </div>
+            
+            }
+            
+    </div>
+        <!-- child nr 4 -->
+    <div class='ratio' ></div>
+
+
+</body>
+</html>

@@ -1,0 +1,65 @@
+@model dreamstarter_web.Models.ViewModels.LoginViewModel;
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Login</title>
+
+        <environment names="Development">
+            <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+            <link rel="stylesheet" asp-href-include="~/css/*.css" />
+        </environment>
+    </head>  
+    
+  <body>
+    <div class="container">
+
+      <form class="well form-horizontal" action="/Account/Login" method="post">
+        <fieldset>
+
+          <!-- Form Name -->
+          <legend><center><h2><b>Welcome</b></h2></center></legend><br>
+
+          <dev asp-validation-summary="All" class="danger">
+            
+            <!-- Email-->
+            <div class="form-group">
+              <label class="col-md-4 control-label" asp-for="Email" ></label>  
+              <div class="col-md-4 inputGroupContainer">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+                    <input asp-for="Email" placeholder="E-Mail Address" class="form-control">
+                    <span asp-validation-for="Email" class ="text-danger"></span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Password-->
+
+            <div class="form-group">
+                <label class="col-md-4 control-label" asp-for="Password"></label> 
+              <div class="col-md-4 inputGroupContainer">
+                <div class="input-group">
+                  <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                  <input asp-for="Password" placeholder="Password" class="form-control">
+                  <span asp-validation-for="Password" class ="text-danger"></span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Button -->
+            <div class="form-group">
+              <label class="col-md-4 control-label"></label>
+              <div class="col-md-4"><br>
+              <!-- Non-Breaking SPace (NBSP) is used in programming, and word processing to create a space in a line that cannot be broken by word wrap -->
+                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<button type="submit" class="btn btn-warning" >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspSUBMIT <span class="glyphicon glyphicon-send"></span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</button>
+              </div>
+            </div>
+          </dev>
+        </fieldset>
+      </form>
+      
+    </div><!-- /.container -->
+  </body>
+</html>
