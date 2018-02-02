@@ -1,0 +1,97 @@
+﻿/*top - navbar*/
+
+@font-face {
+  font-family: 'Amble-Regular'; /*a name to be used later*/
+  src: url("~/fonts/amble/Amble-Regular.ttf"); /*URL to font*/
+}
+
+body{
+  
+  font-family: 'Amble';
+  
+}
+
+.navbar, .navbar-default, .img{
+  background-color:#0fcbe4;
+  border-color: #0fcbe4;
+  padding-top: 15px;
+  padding-bottom: 5px;
+
+}
+
+
+
+.navbar-logo img{
+  
+  width: 15em;
+  height: auto;
+  margin-left: 18em;
+}
+
+  
+
+.ratio {  
+    width: 100vw;  
+    height: 56.25vw;  
+}
+  
+.ratio:nth-child(2){
+  background: url("../images/rocket-launch-illustration.png")  no-repeat;
+  background-size: cover;
+}
+  
+.ratio:nth-child(4){
+  
+  background: url("../images/mobile_app.png")  no-repeat;
+  background-size: 70%;
+  background-position: bottom right;
+  
+}
+
+.homepage-footer{
+  height: 5em;
+  background-color:#0fcbe4;
+  border-color: #0fcbe4;
+  margin-bottom: 0;
+  color: black;
+}
+
+#footer-content{
+  margin-left: 50%;
+}
+
+
+/*
+    Home - Campaign Cards
+*/
+
+.Card-Parent{
+  height: 30em;
+  
+  padding:1%;
+  /* border-color: blue; */
+  border-radius: 1em
+
+}
+
+.Detail-Picture{
+  height: 200px;
+}
+
+.Card-Synopsis{
+
+  overflow-y:hidden;
+}
+
+/*
+  Detail Campaign
+*/
+
+.Detail-Support-Btn {
+  /* background-color:gray; */
+  border-radius:0;
+  height:5em;
+  font-family: sans-serif;
+  font-size: 120%;
+  color: black;
+}

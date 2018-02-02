@@ -1,0 +1,80 @@
+/home/q/Desktop/Final Project 2017/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.deps.json
+/home/q/Desktop/Final Project 2017/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.json
+/home/q/Desktop/Final Project 2017/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.dev.json
+/home/q/Desktop/Final Project 2017/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/Final Project 2017/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/Final Project 2017/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.csproj.CoreCompileInputs.cache
+/home/q/Desktop/Final Project 2017/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfoInputs.cache
+/home/q/Desktop/Final Project 2017/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfo.cs
+/home/q/Desktop/Final Project 2017/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/Final Project 2017/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/Final Project 2017/back_web/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.deps.json
+/home/q/Desktop/Final Project 2017/back_web/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.json
+/home/q/Desktop/Final Project 2017/back_web/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.dev.json
+/home/q/Desktop/Final Project 2017/back_web/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/Final Project 2017/back_web/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/Final Project 2017/back_web/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.csproj.CoreCompileInputs.cache
+/home/q/Desktop/Final Project 2017/back_web/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfoInputs.cache
+/home/q/Desktop/Final Project 2017/back_web/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfo.cs
+/home/q/Desktop/Final Project 2017/back_web/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/Final Project 2017/back_web/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/dreamstarter_app/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.deps.json
+/home/q/Desktop/dreamstarter_app/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.json
+/home/q/Desktop/dreamstarter_app/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.dev.json
+/home/q/Desktop/dreamstarter_app/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/dreamstarter_app/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/dreamstarter_app/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.csproj.CoreCompileInputs.cache
+/home/q/Desktop/dreamstarter_app/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfoInputs.cache
+/home/q/Desktop/dreamstarter_app/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfo.cs
+/home/q/Desktop/dreamstarter_app/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/dreamstarter_app/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/Final Project 2017/tokenAuthentication/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.csproj.CoreCompileInputs.cache
+/home/q/Desktop/Final Project 2017/tokenAuthentication/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfoInputs.cache
+/home/q/Desktop/Final Project 2017/tokenAuthentication/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfo.cs
+/home/q/Desktop/Final Project 2017/tokenAuthentication/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/Final Project 2017/tokenAuthentication/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/Final Project 2017/tokenAuthentication/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.deps.json
+/home/q/Desktop/Final Project 2017/tokenAuthentication/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.json
+/home/q/Desktop/Final Project 2017/tokenAuthentication/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.dev.json
+/home/q/Desktop/Final Project 2017/tokenAuthentication/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/Final Project 2017/tokenAuthentication/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/token plus session - dreamstarter/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.deps.json
+/home/q/Desktop/token plus session - dreamstarter/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.json
+/home/q/Desktop/token plus session - dreamstarter/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.dev.json
+/home/q/Desktop/token plus session - dreamstarter/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/token plus session - dreamstarter/dreamstarter_web/bin/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/token plus session - dreamstarter/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.csproj.CoreCompileInputs.cache
+/home/q/Desktop/token plus session - dreamstarter/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfoInputs.cache
+/home/q/Desktop/token plus session - dreamstarter/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfo.cs
+/home/q/Desktop/token plus session - dreamstarter/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/token plus session - dreamstarter/dreamstarter_web/obj/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/Backup-18-12/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.deps.json
+/home/q/Desktop/Backup-18-12/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.json
+/home/q/Desktop/Backup-18-12/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.dev.json
+/home/q/Desktop/Backup-18-12/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/Backup-18-12/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/Backup-18-12/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.csproj.CoreCompileInputs.cache
+/home/q/Desktop/Backup-18-12/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfoInputs.cache
+/home/q/Desktop/Backup-18-12/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfo.cs
+/home/q/Desktop/Backup-18-12/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/Backup-18-12/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/copy-to-exam/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.deps.json
+/home/q/Desktop/copy-to-exam/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.json
+/home/q/Desktop/copy-to-exam/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.dev.json
+/home/q/Desktop/copy-to-exam/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/copy-to-exam/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/copy-to-exam/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.csproj.CoreCompileInputs.cache
+/home/q/Desktop/copy-to-exam/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfoInputs.cache
+/home/q/Desktop/copy-to-exam/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfo.cs
+/home/q/Desktop/copy-to-exam/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/copy-to-exam/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/copy-to-exam-2/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.deps.json
+/home/q/Desktop/copy-to-exam-2/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.json
+/home/q/Desktop/copy-to-exam-2/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.runtimeconfig.dev.json
+/home/q/Desktop/copy-to-exam-2/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/copy-to-exam-2/dreamstarter_backup_18.12.2017/bin/Debug/netcoreapp2.0/dreamstarter_web.pdb
+/home/q/Desktop/copy-to-exam-2/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.csproj.CoreCompileInputs.cache
+/home/q/Desktop/copy-to-exam-2/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfoInputs.cache
+/home/q/Desktop/copy-to-exam-2/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.AssemblyInfo.cs
+/home/q/Desktop/copy-to-exam-2/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.dll
+/home/q/Desktop/copy-to-exam-2/dreamstarter_backup_18.12.2017/obj/Debug/netcoreapp2.0/dreamstarter_web.pdb
